@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'Vijay Brahmbhatt',
-    description: 'The best place to start your documentation.',
+    description: '',
     image: '',
     // socials: {
     //   twitter: 'nuxt_js',
